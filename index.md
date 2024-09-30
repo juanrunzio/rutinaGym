@@ -6,7 +6,7 @@ layout: default
 
 ### Pecho
 - [ ] press banco plano 
-- Press banco declinado 
+- [] Press banco declinado 
 - Apertura con mancuerna en plano
 
 ### Bíceps 
