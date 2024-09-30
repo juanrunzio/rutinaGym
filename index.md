@@ -1,3 +1,9 @@
+---
+title: "Day one/One day"
+permalink: /
+layout: default
+---
+
 ### Pecho
 - press banco plano 
 - Press banco declinado 
