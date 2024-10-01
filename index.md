@@ -3,7 +3,10 @@ title: "Day one/One day"
 permalink: /
 layout: default
 ---
+## abs
 
+
+## day1
 ### Pecho
 <ul>
   <li><input type="checkbox" id="bench-press"> <label for="bench-press">press banco plano</label></li>
@@ -18,4 +21,6 @@ layout: default
   <li><input type="checkbox" id="low-pulley-curl"> <label for="low-pulley-curl">curl polea baja con soga</label></li>
   <li><input type="checkbox" id="21s"> <label for="21s">21 con W</label></li>
 </ul>
+
+## day2
 
