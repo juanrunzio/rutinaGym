@@ -1,5 +1,4 @@
 title: "Day one/One day"
-theme: slate  # Aquí defines el tema para todo el sitio
 permalink: /
 markdown: kramdown
 remote_theme: pages-themes/slate@v0.2.0
