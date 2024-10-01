@@ -1,4 +1,5 @@
 ---
+title: "Day one/One day"
 permalink: /
 layout: default
 ---
