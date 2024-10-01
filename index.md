@@ -3,7 +3,6 @@ title: "Day one/One day"
 theme: slate
 permalink: /
 layout: default
-markdown: kramdown
 ---
 ## abs
 
