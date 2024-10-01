@@ -1,20 +1,25 @@
 ---
 title: "Day one/One day"
+theme: slate
 permalink: /
 layout: default
+markdown: kramdown
 ---
+
 ## abs
 
-
 ## day1
+
 ### Pecho
+
 <ul>
   <li><input type="checkbox" id="bench-press"> <label for="bench-press">press banco plano</label></li>
   <li><input type="checkbox" id="decline-bench"> <label for="decline-bench">Press banco declinado</label></li>
   <li><input type="checkbox" id="dumbbell-fly"> <label for="dumbbell-fly">Apertura con mancuerna en plano</label></li>
 </ul>
 
-### Bíceps 
+### Bíceps
+
 <ul>
   <li><input type="checkbox" id="concentration-curl"> <label for="concentration-curl">curl concentrado</label></li>
   <li><input type="checkbox" id="bar-curl"> <label for="bar-curl">curl con barra</label></li>
@@ -23,4 +28,3 @@ layout: default
 </ul>
 
 ## day2
-
