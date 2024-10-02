@@ -17,6 +17,8 @@ markdown: kramdown
 | `pecho`   |- press banco declinado   | 3 x 10       |
 | `pecho`   |- apertura con mancuerna en plano| 3 x 10       |
 
+
+|           |                          |              |
 |:----------|:-------------------------|:-------------|
 | `bíceps`  |- curl concentrado        | 3 x 10       |
 | `bíceps`  |- curl con barra          | 3 x 10       |
