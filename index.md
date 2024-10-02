@@ -22,7 +22,7 @@ markdown: kramdown
 | `bíceps`  | _**curl concentrado**_   | 3 x 10       |
 | `bíceps`  | _**curl con barra**_     | 3 x 10       |
 | `bíceps`  | _**curl polea baja con soga**_ | 3 x 10       |
-| `bíceps`  | _**21 con W**_           | 3 x 10       |
+| `bíceps`  | _**21 con W**_           | 3 x 21(7+7+7)       |
 
 
 
