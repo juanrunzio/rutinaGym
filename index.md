@@ -11,21 +11,18 @@ markdown: kramdown
 
 ## day1
 
-| musculo   | ejercicio               | repeticiones |
-|:----------|:------------------------|:-------------|
-| `pecho`   | press banco plano       | 3 x 12,10,8  |
-| `pecho`   | press banco declinado   | 3 x 10       |
-| `pecho`   | apertura con mancuerna en plano| 3 x 10       |
-| --------- | ----------------------- | ------------ |
-| `bíceps`  | curl concentrado        | 3 x 10       |
-| `bíceps`  | curl con barra          | 3 x 10       |
-| `bíceps`  | curl polea baja con soga| 3 x 10       |
-| `bíceps`  | 21 con W                | 3 x 10       |
+| musculo   | ejercicio                | repeticiones |
+|:----------|:-------------------------|:-------------|
+| `pecho`   |- press banco plano       | 3 x 12,10,8  |
+| `pecho`   |- press banco declinado   | 3 x 10       |
+| `pecho`   |- apertura con mancuerna en plano| 3 x 10       |
 
+|:----------|:-------------------------|:-------------|
+| `bíceps`  |- curl concentrado        | 3 x 10       |
+| `bíceps`  |- curl con barra          | 3 x 10       |
+| `bíceps`  |- curl polea baja con soga| 3 x 10       |
+| `bíceps`  |- 21 con W                | 3 x 10       |
 
-- [ ] press banco plana
-- [ ] Press banco declinado
-- [ ] Apertura con mancuerna en plano
 
 
 ### Bíceps
