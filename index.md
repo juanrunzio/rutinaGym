@@ -1,5 +1,5 @@
 ---
-title: "theRutine.md"
+title: "Day one/One day"
 theme: hacker
 permalink: /
 layout: default
