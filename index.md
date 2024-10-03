@@ -31,8 +31,9 @@ markdown: kramdown
 
 
 ---
-## day2
 
+
+# day2
 
 | musculo   | ejercicio                | repeticiones |
 |:----------|:-------------------------|:-------------|
@@ -51,7 +52,7 @@ markdown: kramdown
 
 
 ---
-## day3
+# day3
 
 
 | musculo   | ejercicio                | repeticiones |
