@@ -18,8 +18,9 @@ markdown: kramdown
 | musculo   | ejercicio                | repeticiones |
 |:----------|:-------------------------|:-------------|
 | `pecho`   | _**press banco plano**_  | 3 x 12,10,8  |
-| `pecho`   | _**press banco declinado**_ | 3 x 10       |
-| `pecho`   | _**apertura con mancuerna en plano**_ | 3 x 10       |
+| `pecho`   | _**press banco inclinado**_ | 3 x 10       |
+| `pecho`   | _**apertura con mancuerna plano**_ | 3 x 10       |
+| `pecho`   | _**press con mancuernas declinado**_ | 3 x 10       |
 
 |           |                          |              |
 |:----------|:-------------------------|:-------------|
@@ -52,19 +53,21 @@ markdown: kramdown
 
 
 ---
-# day3
 
+
+# day3
 
 | musculo   | ejercicio                | repeticiones |
 |:----------|:-------------------------|:-------------|
-| `hombros` | _** **_ | 3 x 10       |
-| `hombros` | _** **_ | 3 x 10       |
-| `hombros` | _** **_ | 3 x 10       |
+| `hombros` | _**press militar sentado**_ | 3 x 10       |
+| `hombros` | _**vuelos laterales a un brazo**_ | 3 x 10       |
+| `hombros` | _**elevaciones frontales**_ | 3 x 10       |
+| `hombros` | _**face pull/remo al menton**_ | 3 x 10       |
 
 |           |                          |              |
 |:----------|:-------------------------|:-------------|
-| `piernas` | _** **_ | 3 x 10       |
-| `piernas` | _** **_ | 3 x 10       |
-| `piernas` | _** **_ | 3 x 10       |
-| `piernas` | _** **_ | 3 x 10       |
+| `piernas` | _**sentadillas con barra**_ | 3 x 10       |
+| `piernas` | _**peso muerto olimpica**_ | 3 x 10       |
+| `piernas` | _**aductores**_ | 3 x 10       |
+| `piernas` | _**elevación de punteras con peso**_ | 3 x 10       |
 
