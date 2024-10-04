@@ -5,6 +5,7 @@ permalink: /
 layout: default
 markdown: kramdown
 ---
+go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 
 ## abs
 - [Crunch con piernas elevadas](https://www.youtube.com/watch?v=m1ioEPhwbkA)
