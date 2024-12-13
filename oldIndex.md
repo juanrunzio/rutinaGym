@@ -1,9 +1,9 @@
 ---
-title: "Day one/One day"
-theme: hacker
-permalink: /
-layout: default
-markdown: kramdown
+#title: "Day one/One day"
+#theme: hacker
+#permalink: /
+#layout: default
+#markdown: kramdown
 ---
 go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 
