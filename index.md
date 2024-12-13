@@ -13,7 +13,7 @@ go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 - [superman plank/espinales](https://www.youtube.com/watch?v=ApLBIgORTDU)
 
 ## abs express 11min (1min x ejercicio)
- >> Abs cortos > Plancha > Bicicleta > `Descanso` > Elevación de piernas > Toque de talon > Espinales > `Descanso` > Abs cortos > Plancha dinamica > Barquito
+ > Abs cortos > Plancha > Bicicleta > **Descanso** > Elevación de piernas > Toque de talon > Espinales > **Descanso** > Abs cortos > Plancha dinamica > Barquito
 
 # day1
 
