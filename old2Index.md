@@ -1,7 +1,6 @@
 ---
-title: "Day one/One day"
+title: "Day one/One day (old2)"
 theme: hacker
-permalink: /
 layout: default
 markdown: kramdown
 ---
