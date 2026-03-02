@@ -20,27 +20,22 @@ go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 | musculo   | ejercicio                | repeticiones |
 |:----------|:-------------------------|:-------------|
 | `pecho`   | _**press banco plano**_  | 3 x 12,10,8  |
-| `pecho`   | _**apertura con mancuernas en banco plano**_ | 3 x 10       |
 | `pecho`   | _**press banco inclinado con mancuerna**_ | 3 x 10       |
+| `pecho`   | _**press en banco declinado smith**_ | 3 x 10       |
 
 |           |                          |              |
 |:----------|:-------------------------|:-------------|
 | `bíceps`  | _**curl inclinado con mancuernas**_   | 3 x 10       |
+| `bíceps`  | _**martillo con barra romana**_ | 3 x 10       |
 | `bíceps`  | _**21 con w**_ | 3 x 21(7+7+7)       |
 | `bíceps`  | _**curl con barra agarre prono**_ | 3 x 10       |
 
 
-|           |                          |              |
-|:----------|:-------------------------|:-------------|
-| `espalda` | _**remo a un brazo banco plano**_ | 3 x 10       |
-| `hombros` | _**press arnold**_ | 3 x 10       |
 
 ---
 
 
 # day2
-
-
 
 | musculo   | ejercicio                | repeticiones |
 |:----------|:-------------------------|:-------------|
@@ -48,11 +43,6 @@ go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 | `espalda` | _**remo a un brazo 45°**_ | 3 x 10       |
 | `espalda` | _**remo invertido**_ | 3 x 10       |
 | `espalda` | _**remo sentado con barra**_ | 3 x 10       |
-
-|           |                          |              |
-|:----------|:-------------------------|:-------------|
-| `pecho`   | _**press banco inclinado**_  | 3 x 12,10,8  |
-| `bíceps`  | _**martillo con barra romana**_ | 3 x 10       |
 
 |           |                          |              |
 |:----------|:-------------------------|:-------------|
@@ -72,6 +62,7 @@ go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 |:----------|:-------------------------|:-------------|
 | `hombros` | _**Z press con barra**_ | 3 x 10       |
 | `hombros` | _**vuelos posteriores sentado**_ | 3 x 10       |
+| `hombros` | _**press arnold**_ | 3 x 10       |
 | `hombros` | _**face pull**_ | 3 x 10       |
 
 |           |                          |              |
