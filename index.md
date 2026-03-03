@@ -12,6 +12,12 @@ go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 - [Elevaciones en paralelas/barra](https://www.cambiatufisico.com/elevaciones-piernas-paralelas/)
 - [superman plank/espinales](https://www.youtube.com/watch?v=ApLBIgORTDU)
 
+## abs2
+- [russian twist]()
+- [crunch inverso]()
+- [tijeras]()
+- [elevacines de rodillas en paralelas]()
+
 ## abs express 11min (1min x ejercicio)
  > Abs cortos > Plancha > Bicicleta > **Descanso** > Elevación de piernas > Toque de talon > Espinales > **Descanso** > Abs cortos > Plancha dinamica > Barquito
 
@@ -44,22 +50,21 @@ go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 
 | musculo   | ejercicio                | repeticiones |
 |:----------|:-------------------------|:-------------|
-| `espalda` | _**pullover en polea**_ | 3 x 10       |
-| `espalda` | _**remo a un brazo 45°**_ | 3 x 10       |
+| `espalda` | _**jalon al pecho(estrecho)**_ | 3 x 10       |
 | `espalda` | _**remo invertido**_ | 3 x 10       |
-| `espalda` | _**remo sentado con barra**_ | 3 x 10       |
+| `espalda` | _**remo sentado con triangulo**_ | 3 x 10       |
 
 |           |                          |              |
 |:----------|:-------------------------|:-------------|
-| `pecho`   | _**press banco inclinado**_  | 3 x 12,10,8  |
-| `bíceps`  | _**martillo con barra romana**_ | 3 x 10       |
-
-|           |                          |              |
-|:----------|:-------------------------|:-------------|
-| `triceps` | _**skull crusher en inclinado(bastante plano)**_ | 3 x 10       |
-| `triceps` | _**tras nuca con polea**_ | 3 x 10       |
+| `triceps` | _**fondo en banco plano**_ | 3 x 10       |
 | `triceps` | _**tras nuca con mancuerna a un brazo**_ | 3 x 10       |
 | `triceps` | _**press close grip con barra**_ | 3 x 10       |
+
+|           |                          |              |
+|:----------|:-------------------------|:-------------|
+| `piernas`   | _**extension de piernas**_  | 3 x 12,10,8  |
+| `piernas`  | _**gemelos en maquina**_ | 3 x 10       |
+
 
 
 
@@ -80,4 +85,25 @@ go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 | `piernas` | _**peso muerto olimpica**_ | 3 x 10       |
 | `piernas` | _**sentadilla bulgara con mancuernas**_ | 3 x 10       |
 | `piernas` | _**gemelos en maquina**_ | 3 x 10       |
+| `pecho`   | _**press banco inclinado**_  | 3 x 12,10,8  |
 
+
+
+
+---
+
+
+# day4
+
+| musculo   | ejercicio                | repeticiones |
+|:----------|:-------------------------|:-------------|
+| `espalda` | _**pullover en polea**_ | 3 x 10       |
+
+
+
+
+
+
+| `biceps`  | _**martillo con barra romana**_ | 3 x 10       |
+| `triceps` | _**barbell standing close grip**_ | 3 x 10       |
+| `triceps` | _**skull crusher en inclinado(bastante plano)**_ | 3 x 10       |
