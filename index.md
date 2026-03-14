@@ -98,13 +98,21 @@ go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 
 | musculo   | ejercicio                | repeticiones |
 |:----------|:-------------------------|:-------------|
-| `espalda` | _**pullover en polea**_ | 3 x 10       |
-| `pecho`   | _**press banco inclinado**_  | 3 x 12,10,8  |
-
-
-
-
-
+| `pecho`   | _**press banco plano**_  | 3 x 12,10,8  |
 | `biceps`  | _**martillo con barra romana**_ | 3 x 10       |
+| `triceps` | _**skull crusher en plano**_ | 3 x 10       |
+
+|           |                          |              |
+|:----------|:-------------------------|:-------------|
+| `biceps`  | _**curl en supinacion en banco scott**_ | 3 x 10       |
+| `pecho`   | _**press banco inclinado**_  | 3 x 12,10,8  |
+| `espalda` | _**pullover en polea**_ | 3 x 10       |
+
+|           |                          |              |
+|:----------|:-------------------------|:-------------|
+| `triceps`   | _**extension de triceps en polea**_  | 3 x 12,10,8  |
+| `piernas`  | _**aductores en maquina**_ | 3 x 10       |
+
+
+
 | `triceps` | _**barbell standing close grip**_ | 3 x 10       |
-| `triceps` | _**skull crusher en inclinado(bastante plano)**_ | 3 x 10       |
