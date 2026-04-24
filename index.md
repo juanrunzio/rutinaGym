@@ -8,15 +8,16 @@ markdown: kramdown
 go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 
 ## abs
-- [Rueda abdominal](https://eresfitness.com/rueda-abdominal-de-rodillas/)
-- [Elevaciones en paralelas/barra](https://www.cambiatufisico.com/elevaciones-piernas-paralelas/)
-- [superman plank/espinales](https://www.youtube.com/watch?v=ApLBIgORTDU)
+- [crunch superior declinado](https://share.google/i7gpkh23tncAhacIw)
+- [Elevaciones de piernas]()
+- [knee to chest]()
+- [plancha lateral]()
 
 ## abs2
-- [russian twist]()
 - [crunch inverso]()
+- [russian twist]()
 - [tijeras]()
-- [elevacines de rodillas en paralelas]()
+- [elevacines de piernas en barra]()
 
 ## abs express 11min (1min x ejercicio)
  > Abs cortos > Plancha > Bicicleta > **Descanso** > Elevación de piernas > Toque de talon > Espinales > **Descanso** > Abs cortos > Plancha dinamica > Barquito
@@ -26,19 +27,19 @@ go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 | musculo   | ejercicio                | repeticiones |
 |:----------|:-------------------------|:-------------|
 | `pecho`   | _**press banco plano**_  | 3 x 12,10,8  |
-| `pecho`   | _**apertura con mancuernas en banco plano**_ | 3 x 10       |
+| `pecho`   | _**mariposa pec deck**_ | 3 x 10       |
 | `pecho`   | _**press banco inclinado con mancuerna**_ | 3 x 10       |
 
 |           |                          |              |
 |:----------|:-------------------------|:-------------|
-| `bíceps`  | _**curl inclinado con mancuernas**_   | 3 x 10       |
+| `bíceps`  | _**curl inclinado con mancuernas prono**_   | 3 x 10       |
 | `bíceps`  | _**21 con w**_ | 3 x 21(7+7+7)       |
 | `bíceps`  | _**curl con barra agarre prono**_ | 3 x 10       |
 
 
 |           |                          |              |
 |:----------|:-------------------------|:-------------|
-| `espalda` | _**remo a un brazo banco plano**_ | 3 x 10       |
+| `espalda` | _**remo con barra**_ | 3 x 10       |
 | `hombros` | _**press arnold**_ | 3 x 10       |
 
 ---
@@ -75,7 +76,7 @@ go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 
 | musculo   | ejercicio                | repeticiones |
 |:----------|:-------------------------|:-------------|
-| `hombros` | _**vuelos posteriores sentado**_ | 3 x 10       |
+| `hombros` | _**vuelos laterales a 1 brazo**_ | 3 x 10       |
 | `hombros` | _**face pull**_ | 3 x 10       |
 | `hombros` | _**press militar**_ | 3 x 10       |
 
