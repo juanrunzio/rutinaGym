@@ -5,7 +5,7 @@ permalink: /
 layout: default
 markdown: kramdown
 ---
-go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
+go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)  -  [day 4](#day4)
 
 ## abs
 - [crunch superior declinado](https://share.google/i7gpkh23tncAhacIw)
@@ -115,7 +115,7 @@ go to: [day 1](#day1)  -  [day 2](#day2)  -  [day 3](#day3)
 | `piernas`  | _**aductores en maquina**_ | 3 x 10       |
 
 
-
+---
 
 #### coming next
 
